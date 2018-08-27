@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/pa3ng/httprouter-boilerplate/internal/app"
+	"github.com/pa3ng/httprouter-rest-boilerplate/internal/app"
 )
 
 func main() {
